@@ -1,0 +1,15 @@
+.layer-root {
+  display: flex;
+  margin-inline: 0.5rem;
+  font-size: x-large;
+}
+
+.layer-item {
+  cursor: pointer;
+}
+
+.checkbox {
+  border: 2px royalblue solid;
+  cursor: pointer;
+  font-size: large;
+}
